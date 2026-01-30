@@ -1,5 +1,6 @@
 # bookMyShow
 Theatres can upload movie and users can book tickets
+
 **Things missed in code:**
 **1. Transactional Scenarios & Design Decisions**
 Scenario: Seat booking involves multiple steps (lock seats → create booking → initiate payment → confirm payment → finalize booking).
